@@ -248,7 +248,4 @@ header .container .header-content p {
 }
 
 @media (max-width: 367px) {
-  body {
-    font-size: 1.3rem;
-  }
 }
